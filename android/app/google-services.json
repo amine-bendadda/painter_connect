@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946823589117",
+    "project_id": "painter-connect-97011",
+    "storage_bucket": "painter-connect-97011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946823589117:android:9d63a109bbcef3d6eae294",
+        "android_client_info": {
+          "package_name": "com.example.painter_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaqO4wW6_-pSwVAdtb2PcR7jOqRKO-b3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
